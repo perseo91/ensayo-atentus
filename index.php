@@ -255,7 +255,10 @@ if($solo_action != 't') {
 	}
 
    
-   
+   else if ($menu_id==260 || $menu_id==270) {
+		$T->setVar('__seccion', 'tools/dojo/nueva_capa/capa_reporte_prueba.js');
+	}
+
 
 	/*
 
