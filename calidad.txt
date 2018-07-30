@@ -10,3 +10,5 @@ javascript
 jquery
 ajax
 html
+pentajo
+arduino
