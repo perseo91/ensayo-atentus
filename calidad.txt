@@ -2,3 +2,11 @@ ensayo de calidad
 ensayo con git 
 ensayo con git durante julio
 actividades de agosto
+php
+python
+git
+postgresql
+javascript
+jquery
+ajax
+html
