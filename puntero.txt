@@ -1,1 +1,2 @@
-detalle de puntero 
+   detalle de puntero
+      actividades con git    
