@@ -13,3 +13,6 @@ html
 pentajo
 arduino
 c++
+bind 
+proxmox
+filezilla
