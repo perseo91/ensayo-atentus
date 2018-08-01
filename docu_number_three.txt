@@ -1,0 +1,6 @@
+ terminal de buses
+ estacion de metro
+ terminal ferroviario
+puerto
+ aeropuerto
+ 
