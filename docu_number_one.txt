@@ -1,4 +1,5 @@
  
 basilica
 iglesia
-catedral
+catedra
+monasterio
