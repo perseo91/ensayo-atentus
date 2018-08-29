@@ -1,2 +1,4 @@
+activades con netbeans
+
    detalle de puntero
       actividades con git    
