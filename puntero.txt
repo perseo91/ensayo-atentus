@@ -1,6 +1,11 @@
-activades con netbeans
-detalle de puntero
-actividades con git    
-actividades con javascript
-actividades con jquery
-sactividades con ajax
+   detalle de puntero
+      actividades con git    
+ actividades con javascript
+ actividades con jquery
+ actividades con ajax
+ 
+   detalle de puntero
+      actividades con git    
+ actividades con javascript
+ actividades con jquery
+ actividades con ajax
