@@ -1,3 +1,4 @@
    detalle de puntero
       actividades con git    
  actividades con javascript
+ actividades con jquery
