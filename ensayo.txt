@@ -3,3 +3,6 @@ ensayo vacio
 git ensayo con talento
 ensayo con disciplina
 
+ensayo con perseverancia
+ensayo con optimismo
+ensayo con alegria
